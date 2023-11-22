@@ -6,21 +6,22 @@
 
 🌐 My versatility is expressed not only in code but also in languages. I am fluent in three languages: Arabic, English, and French. Currently, I am learning Spanish to broaden my linguistic horizons.
 
-****skills in tech:****
+****. skills in tech:****
 
-*Programming languages:* 
+*1 Programming languages:* 
 
 python, Javascript, C, PhP
 
 
-*Design*
+*2 Design*
+
 UX/UI design, Adobe
 
 
-****Books:****
+****. Books:****
 Novel, Psychological, Biography, Hard/soft Science Fiction
 
 
-****Teamwork****
+****. Teamwork****
 Collaboration, communication, Conflict resolution
 
