@@ -9,8 +9,14 @@
 ****. skills in tech:****
 
 *1 Programming languages:* 
+![image](https://github.com/HaddoucheMilissa/HaddoucheMilissa/assets/151778477/21a24d9b-3abc-4e5a-a704-74674d262846)
 
-python, Javascript, C, PhP
+![image](https://github.com/HaddoucheMilissa/HaddoucheMilissa/assets/151778477/72b261a1-12d8-4502-b624-8ac179e0f378)
+
+![image](https://github.com/HaddoucheMilissa/HaddoucheMilissa/assets/151778477/950ac12a-8872-4810-8ded-80f230802b30)
+
+![image](https://github.com/HaddoucheMilissa/HaddoucheMilissa/assets/151778477/e819f9ba-ac3b-4882-860c-d26add817f71)
+
 
 
 *2 Design*
