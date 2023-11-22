@@ -12,12 +12,15 @@
 
 python, Javascript, C, PhP
 
+
 *Design*
 UX/UI design, Adobe
+
 
 ****Books:****
 Novel, Psychological, Biography, Hard/soft Science Fiction
 
-***Teamwork****
+
+****Teamwork****
 Collaboration, communication, Conflict resolution
 
