@@ -19,7 +19,13 @@ UX/UI design, Adobe
 
 
 ****. Books:****
+
 Novel, Psychological, Biography, Hard/soft Science Fiction
+
+
+****. Languages:****
+
+Arabic, English, and French , in the process of learning Spanish 
 
 
 ****. Teamwork****
