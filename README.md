@@ -1,4 +1,4 @@
-***Hi there, welcome to my profile!***
+***welcome to my profile!***
 
 
 <h1 align="center">Hi 👋, I'm Haddouche Melissa</h1>
