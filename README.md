@@ -19,7 +19,7 @@ Python, JavaScript, C, PhP
 
 *2 Design*
 
-UX/UI design, Adobe
+Figma, Adobe, UI Design
 
 
 ****. Books:****
