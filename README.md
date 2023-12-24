@@ -5,39 +5,39 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haddouchemilissa&label=Profile%20views&color=0e75b6&style=flat" alt="haddouchemilissa" /> </p>
 
-- 🌱 I’m currently learning **Back-End Development**
+- 🌱 I’m currently learning **Back-End Development and deep learning**
 
-- You can ask me about: **python, ML**
+- You can ask me about: **python, Machine Learning, Data Manipulation**
 
 - 📫 How to reach me **melissahaddo18@gmail.com**
 
 - I'm in love with : **books,Tea**
 
-- 👋 I am currently a second-year computer science student at Numidia Institute of Technology (NIT). Passionate about the vast world of computer science, I easily adapt to new technologies.
+- 👋 I am currently a second-year computer science student. Passionate about the vast world of IT , I easily adapt to new technologies.
 
-🚀 My love for programming is particularly evident through my passionate interest in artificial intelligence, especially Machine Learning (ML) and Natural Language Processing (NLP).
+🚀 My love for programming is particularly evident through my passionate interest in artificial intelligence, especially Machine Learning (ML) and data manipulation.
 
 🌐 My versatility is expressed not only in code but also in languages. I am fluent in three languages: Arabic, English, and French. Currently, I am learning Spanish to broaden my linguistic horizons.
 
-. skills in tech:
+**. skills in tech:**
 
-1 Programming languages:
+**1 Programming languages:**
 
 Python, JavaScript, C, PhP
 
-2 Design
+**2 Design**
 
 Figma, Adobe, UI Design
 
-. Books:
+**. Books:**
 
 Novel, Psychological, Biography, Hard/soft Science Fiction
 
-. Languages:
+**. Languages:**
 
 Arabic, English, and French , in the process of learning Spanish
 
-. Teamwork Collaboration, communication, Conflict resolution
+**. Teamwork Collaboration, communication, Conflict resolution**
 
 
 <h3 align="left">Connect with me:</h3>
