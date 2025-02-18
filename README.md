@@ -64,4 +64,3 @@ Driven by innovation, I am always ready to push the boundaries of AI and backend
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haddouchemilissa&show_icons=true&locale=en" alt="haddouchemilissa" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haddouchemilissa&" alt="haddouchemilissa" /></p>
