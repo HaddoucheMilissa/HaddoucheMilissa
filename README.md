@@ -1,15 +1,17 @@
 *Welcome to my profile!* 🚀
 
 <h1 align="center">Hi 👋🏻, I'm Haddouche Milissa</h1>
-<h3 align="center">Advanced Python Developer | Front-End Developer | Mastery of ML and DL | Graphic Designer | CS Student</h3>
+<h3 align="center">Advanced Python Developer | Back-End Developer |  ML and DL | Graphic Designer | CS Student</h3>
 
 ---
 
 ### 🌱 About Me:
 
-🚀 My love for programming is particularly evident through my passionate interest in artificial intelligence, especially Machine Learning (ML) and Natural Language Processing (NLP). Simultaneously, I nurture a growing ambition to specialize in the crucial field of cybersecurity. To achieve this goal, I have undertaken comprehensive training tailored to acquire essential knowledge. These enriching experiences have strengthened my belief that programming is more than just a skill for me.
+🚀 As a backend developer specializing in Django and Python, I thrive on building robust, scalable, and efficient systems. My expertise extends beyond traditional backend development into the world of Artificial Intelligence (AI), where I focus on Machine Learning (ML), Deep Learning (DL), and Natural Language Processing (NLP).
 
-🌐 My versatility is expressed not only in code but also in languages. I am fluent in three languages: Arabic, English, and French. Currently, I am learning Spanish to broaden my linguistic horizons.
+🌐 Beyond coding, I am fluent in Arabic, English, and French, and currently learning Spanish to expand my global communication skills.
+
+Driven by innovation, I am always ready to push the boundaries of AI and backend development to create smarter, more powerful applications. 🚀🤖
 
 ### More about me:
 - 👩🏻‍💻 I’m currently learning: **Frameworks, Backend-dev**
