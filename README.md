@@ -35,10 +35,6 @@ Arabic, English, and French , in the process of learning Spanish
 
 . Teamwork Collaboration, communication, Conflict resolution
 
-Feel free to reach out to me if you would like to discuss projects, partnerships, or simply exchange ideas. I would be delighted to contribute to the achievement of your goals.
-REACH ME :
-melissahaddo18@gmail.com
-melissahaddouche18@outlook.fr
 
 ### More about me:
 - 👩🏻‍💻 I’m currently learning: **LLMs**
