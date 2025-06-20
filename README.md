@@ -7,15 +7,43 @@
 
 ### 🌱 About Me:
 
-🚀 As a backend developer specializing in Django and Python, I thrive on building robust, scalable, and efficient systems. My expertise extends beyond traditional backend development into the world of Artificial Intelligence (AI), where I focus on Machine Learning (ML), Deep Learning (DL), and Natural Language Processing (NLP).
+Computer Science graduate from Numidia Institute of Technology (NIT), specializing in Artificial Intelligence with practical experience in Machine Learning, Natural Language Processing (NLP), and Flutter app development.
 
-🌐 Beyond coding, I am fluent in Arabic, English, and French, and currently learning Spanish to expand my global communication skills.
+Skilled in developing intelligent and user-focused software solutions. Comfortable working across different layers of technology, from backend logic to frontend interfaces. Adaptable to various tools and frameworks, with a strong foundation in both programming and AI technologies.
 
-Driven by innovation, I am always ready to push the boundaries of AI and backend development to create smarter, more powerful applications. 🚀🤖
+Passionate about tech innovation, adaptable to new tools and environments, and driven by continuous learning and collaboration.
+
+.
+
+🧠 Skills & Technologies
+Programming Languages: Python, Dart, JavaScript, Java, C
+
+AI 
+
+Frameworks & Tools: Flutter, TensorFlow, Keras, NodeJs, Flask, OpenCV
+
+App Development: Mobile & Web apps using Flutter, Firebase, REST APIs
+
+Design: UI/UX Design, Figma, Adobe Suite
+
+Collaboration Tools: Git, GitHub, VS Code, Postman
+
+
+
+. Languages:
+
+Arabic, English, and French , in the process of learning Spanish
+
+. Teamwork Collaboration, communication, Conflict resolution
+
+Feel free to reach out to me if you would like to discuss projects, partnerships, or simply exchange ideas. I would be delighted to contribute to the achievement of your goals.
+REACH ME :
+melissahaddo18@gmail.com
+melissahaddouche18@outlook.fr
 
 ### More about me:
-- 👩🏻‍💻 I’m currently learning: **Frameworks, Backend-dev**
-- 💬 Ask me about: **Python, Django, Machine Learning, Deep Learning**
+- 👩🏻‍💻 I’m currently learning: **LLMs**
+- 💬 Ask me about: **Django**
 - 📫 How to reach me: **melissahaddo18@gmail.com**
 - ⚡ Fun fact: **I hate eating fruits**
 
