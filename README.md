@@ -13,7 +13,6 @@ Skilled in developing intelligent and user-focused software solutions. Comfortab
 
 Passionate about tech innovation, adaptable to new tools and environments, and driven by continuous learning and collaboration.
 
-.
 
 🧠 Skills & Technologies
 Programming Languages: Python, Dart, JavaScript, Java, C
