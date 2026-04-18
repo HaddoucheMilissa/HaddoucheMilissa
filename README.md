@@ -1,7 +1,7 @@
 *Welcome to my profile!* 🚀
 
 <h1 align="center">Hi 👋🏻, I'm Haddouche Milissa</h1>
-<h3 align="center">AI Engineer | Backend Developer | Graphic Designer</h3>
+<h3 align="center">AI Engineer | Full Stack Developer | UI/UX Designer</h3>
 
 ---
 
