@@ -1,7 +1,7 @@
 *Welcome to my profile!* 🚀
 
 <h1 align="center">Hi 👋🏻, I'm Haddouche Milissa</h1>
-<h3 align="center">Advanced Python Developer | Back-End Developer |  ML and DL | Graphic Designer | CS Student</h3>
+<h3 align="center">AI Engineer | Backend Developer | Graphic Designer</h3>
 
 ---
 
