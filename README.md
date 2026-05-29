@@ -5,7 +5,7 @@
 
 ---
 
-### 🌱 About Me:
+# 🌱 About Me:
 
 Artificial Intelligence graduate with a strong focus on Natural Language Processing (NLP), Computer Vision, Reinforcement Learning, and intelligent system development. Experienced in building AI-powered solutions that combine advanced ML/DL models with real-world mobile and web applications.
 
@@ -14,8 +14,9 @@ Skilled in developing full-stack AI applications, from training and integrating 
 Experienced with developing AI-powered mobile applications using Flutter and Firebase, alongside backend technologies such as Flask and Node.js to deploy and serve machine learning models in real-world environments. Comfortable working with REST APIs, real-time data processing, and model integration pipelines.
 
 
-🧠 Skills & Technologies
-Strong practical background in:
+# 🧠 Skills & Technologies
+
+- Strong practical background in:
 
 Natural Language Processing (NLP)
 
@@ -40,10 +41,19 @@ Multimodal AI Solutions
 
 Model Training & Deployment
 
-. Languages:
+- Languages:
 
 Arabic, English, French , Italian
-. Teamwork Collaboration, communication, Conflict resolution
+
+- Soft skills:
+
+Adaptability & Flexibility
+
+Problem-Solving & Resilience
+
+Communication Skills
+
+Teamwork & Collaboration
 
 
 ### More about me:
@@ -90,10 +100,5 @@ Arabic, English, French , Italian
     <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
 </p>
 
----
 
-### 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haddouchemilissa&show_icons=true&locale=en&layout=compact" alt="haddouchemilissa" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haddouchemilissa&show_icons=true&locale=en" alt="haddouchemilissa" /></p>
 
