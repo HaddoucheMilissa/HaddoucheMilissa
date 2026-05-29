@@ -7,38 +7,48 @@
 
 ### 🌱 About Me:
 
-Computer Science graduate from Numidia Institute of Technology (NIT), specializing in Artificial Intelligence with practical experience in Machine Learning, Natural Language Processing (NLP), and Flutter app development.
+Artificial Intelligence graduate with a strong focus on Natural Language Processing (NLP), Computer Vision, Reinforcement Learning, and intelligent system development. Experienced in building AI-powered solutions that combine advanced ML/DL models with real-world mobile and web applications.
 
-Skilled in developing intelligent and user-focused software solutions. Comfortable working across different layers of technology, from backend logic to frontend interfaces. Adaptable to various tools and frameworks, with a strong foundation in both programming and AI technologies.
+Skilled in developing full-stack AI applications, from training and integrating deep learning models to designing responsive frontend interfaces and scalable backend systems. Worked on projects involving image processing, real-time prediction systems, sign language recognition, multimodal AI systems, and intelligent automation solutions.
 
-Passionate about tech innovation, adaptable to new tools and environments, and driven by continuous learning and collaboration.
+Experienced with developing AI-powered mobile applications using Flutter and Firebase, alongside backend technologies such as Flask and Node.js to deploy and serve machine learning models in real-world environments. Comfortable working with REST APIs, real-time data processing, and model integration pipelines.
 
 
 🧠 Skills & Technologies
-Programming Languages: Python, Dart, JavaScript, Java, C
+Strong practical background in:
 
-AI 
-
-Frameworks & Tools: Flutter, TensorFlow, Keras, NodeJs, Flask, OpenCV
-
-App Development: Mobile & Web apps using Flutter, Firebase, REST APIs
-
-Design: UI/UX Design, Figma, Adobe Suite
-
-Collaboration Tools: Git, GitHub, VS Code, Postman
+Natural Language Processing (NLP)
 
 
+Computer Vision
+
+
+Reinforcement Learning
+
+
+Deep Learning & Neural Networks
+
+
+Real-time AI Systems
+
+
+AI-powered Mobile & Web Applications
+
+
+Multimodal AI Solutions
+
+
+Model Training & Deployment
 
 . Languages:
 
-Arabic, English, and French , in the process of learning Spanish
-
+Arabic, English, French , Italian
 . Teamwork Collaboration, communication, Conflict resolution
 
 
 ### More about me:
 - 👩🏻‍💻 I’m currently learning: **LLMs**
-- 💬 Ask me about: **Django**
+- 💬 Ask me about: **Cooking**
 - 📫 How to reach me: **melissahaddo18@gmail.com**
 - ⚡ Fun fact: **I hate eating fruits**
 
